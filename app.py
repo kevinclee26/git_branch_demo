@@ -1,3 +1,6 @@
+# SOME VERY HELPFUL COMMENTS
+# VERY HELPFUL
+
 from flask import Flask, render_template, jsonify, request
 import pickle
 import numpy as np
